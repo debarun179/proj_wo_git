@@ -1,0 +1,1 @@
+print("my project with no linkage to GIT")
